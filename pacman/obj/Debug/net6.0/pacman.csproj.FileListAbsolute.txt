@@ -1,0 +1,15 @@
+C:\Users\Runik\Desktop\work\c#\pacman\pacman\bin\Debug\net6.0\pacman.exe
+C:\Users\Runik\Desktop\work\c#\pacman\pacman\bin\Debug\net6.0\pacman.deps.json
+C:\Users\Runik\Desktop\work\c#\pacman\pacman\bin\Debug\net6.0\pacman.runtimeconfig.json
+C:\Users\Runik\Desktop\work\c#\pacman\pacman\bin\Debug\net6.0\pacman.dll
+C:\Users\Runik\Desktop\work\c#\pacman\pacman\bin\Debug\net6.0\pacman.pdb
+C:\Users\Runik\Desktop\work\c#\pacman\pacman\obj\Debug\net6.0\pacman.csproj.AssemblyReference.cache
+C:\Users\Runik\Desktop\work\c#\pacman\pacman\obj\Debug\net6.0\pacman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Runik\Desktop\work\c#\pacman\pacman\obj\Debug\net6.0\pacman.AssemblyInfoInputs.cache
+C:\Users\Runik\Desktop\work\c#\pacman\pacman\obj\Debug\net6.0\pacman.AssemblyInfo.cs
+C:\Users\Runik\Desktop\work\c#\pacman\pacman\obj\Debug\net6.0\pacman.csproj.CoreCompileInputs.cache
+C:\Users\Runik\Desktop\work\c#\pacman\pacman\obj\Debug\net6.0\pacman.dll
+C:\Users\Runik\Desktop\work\c#\pacman\pacman\obj\Debug\net6.0\refint\pacman.dll
+C:\Users\Runik\Desktop\work\c#\pacman\pacman\obj\Debug\net6.0\pacman.pdb
+C:\Users\Runik\Desktop\work\c#\pacman\pacman\obj\Debug\net6.0\pacman.genruntimeconfig.cache
+C:\Users\Runik\Desktop\work\c#\pacman\pacman\obj\Debug\net6.0\ref\pacman.dll
